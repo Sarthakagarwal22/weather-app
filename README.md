@@ -20,8 +20,8 @@ now run `$ npm install` this will install all the dependencies required for the 
 
 now run `$ node app-promise.js -h` for help
 
-![help](screenshots/help.jpeg "Help")
+![help](screenshots/help.png "Help")
 
 run `$ node app-promise.js -a "<address of your location>`
 
-![weather information](screenshots/weather.jpeg "Weather Information")
+![weather information](screenshots/weather.png "Weather Information")
